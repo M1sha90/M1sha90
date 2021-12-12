@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @M1sha90
 - 👀 I’m interested in games and servers
-- 🌱 I’m currently learning Pynthon and Ruby on rails
+- 🌱 I’m currently learning Python and Git
 - 💞️ I’m looking to collaborate on indie games
 - 📫 How to reach me zulov.iosiv@gmail.com or discord M1sha #5013
 
